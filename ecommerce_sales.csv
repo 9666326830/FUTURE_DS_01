@@ -1,0 +1,10 @@
+OrderID,Date,Product,Category,SubCategory,Quantity,UnitPrice,TotalSales,CustomerRegion
+1001,2023-01-01,Wireless Mouse,Electronics,Accessories,2,20.0,40.0,North
+1002,2023-01-02,LED Monitor,Electronics,Displays,1,150.0,150.0,South
+1003,2023-01-03,Desk Chair,Furniture,Seating,1,85.0,85.0,East
+1004,2023-01-03,Office Desk,Furniture,Tables,1,120.0,120.0,West
+1005,2023-01-04,Keyboard,Electronics,Accessories,3,15.0,45.0,North
+1006,2023-02-01,Table Lamp,Home Decor,Lighting,2,35.0,70.0,East
+1007,2023-03-12,Webcam,Electronics,Accessories,1,65.0,65.0,North
+1008,2023-04-18,Sofa,Furniture,Seating,1,300.0,300.0,South
+1009,2023-05-20,Bed Frame,Furniture,Bedding,1,250.0,250.0,West
